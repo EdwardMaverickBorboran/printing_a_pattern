@@ -14,7 +14,7 @@
 # 5 5 5 5 5
 
 # Number of rows need
-rows = 5
+rows = 5 + 1
 
 # Using loop and range
 for numbers in range(rows):
