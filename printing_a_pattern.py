@@ -14,10 +14,10 @@
 # 5 5 5 5 5
 
 # Number of rows need
-rows = 5 + 1
+rows = 5
 
 # Using loop and range
-for numbers in range(rows):
+for numbers in range(rows + 1):
     for pattern in range(numbers):
         print(numbers, end="")
     print("")
